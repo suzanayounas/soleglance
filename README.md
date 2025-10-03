@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 SoleGlance is a **web-based social platform** that integrates social networking with a **real-time news dashboard**.  
-It allows users to connect, share, chat, and stay updated with trending topics — all in one place.  
+It allows users to connect, share, chat, and stay updated with trending topics all in one place.  
 
 ---
 
